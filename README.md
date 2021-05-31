@@ -7,7 +7,7 @@ App shows weather in selected region using AccuWeather API
 - Update daytime image using information from JSON
 - Update weather icon using inforamtion about weather conditions
 - Store data about last query in local storage
-# Soultion
+# Solution
 ## forecast.js
 In this file we get and return 2 pieces of data from weather-API.
 I did two separate functions to get data from two API end-points:
